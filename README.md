@@ -102,3 +102,6 @@ mWebView.setWebChromeClient(new WebChromeClient()
     }
 });
 ```
+
+Source: https://stackoverflow.com/questions/5907369/file-upload-in-webview
+Source: https://stackoverflow.com/questions/29045637/html-input-type-file-is-not-working-on-webview-in-android-there-is-any-way-to
